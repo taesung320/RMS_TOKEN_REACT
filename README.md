@@ -7,8 +7,9 @@
 npm i
 npm start
 ```
-이후 자동 실행 안되는 경우 localhost:3000 접속 후 로그인
-logged in page 에 나오는 토큰 사용해 api 호출
+- 이후 자동 실행 안되는 경우 localhost:3000 접속 
+- 로그인 진행
+- logged in page 에 나오는 토큰 사용해 api 호출
 
 **2.  배포 환경 사용시**
 
