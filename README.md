@@ -1,14 +1,16 @@
 # RMS_TOKEN_REACT
 소셜로그인 토큰생성
 
-***시작하기 (클론받고 루트에서)
+**1. 시작하기 (클론받고 루트에서)**
 
 ```
 npm i
 npm start
 ```
+이후 자동 실행 안되는 경우 localhost:3000 접속 후 로그인
+logged in page 에 나오는 토큰 사용해 api 호출
 
-***배포 한경 사용시
+**2.  배포 환경 사용시**
 
 ```
 const BACKEND_PORT="8080";
