@@ -1,0 +1,49 @@
+.center-item-list{
+    width: 200px;
+    border: 1px solid #B0B0B0;
+    border-radius: 3px;
+    padding :10px;
+    margin:auto;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 5px;
+    
+}
+.basic-page{
+    margin:auto;
+    text-align: center;
+    align-items: center;
+}
+.page-header{
+    margin:auto;
+    text-align: center;
+    align-items: center;
+}
+
+.social-link{
+    color:blue;
+}
+
+.hr-bar{
+    border-width: 1px;
+    border-color: black;
+}
+
+.token-area{
+    display: block; 
+    width: 500px; 
+    padding: 10px;
+    border-radius: 5px;
+    word-break: break-all; 
+    border: 1px solid #B0B0B0;
+    background-color: #EFEFEF;
+    margin:auto;
+    margin-bottom: 10px;
+}
+.oauth-header{
+    display: inline-block;
+}
+.copy-to-clipboard{
+    display: inline-block;
+    margin:5px;
+}

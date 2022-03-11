@@ -7,8 +7,9 @@ import Main from "./login/Main"
 function App() {
   return (
     <div>
-      <header>
-        <h2>RMS TOKEN</h2>
+      <header className="page-header">
+        <h2>RMS ADMIN</h2>
+        <hr className="hr-bar"></hr>
       </header>
       <Routes>
         <Route path="/" element={<Main/>} />
