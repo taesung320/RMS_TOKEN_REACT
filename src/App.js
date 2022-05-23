@@ -13,7 +13,7 @@ function App() {
       </header>
       <Routes>
         <Route path="/" element={<Main/>} />
-        <Route path="/oauth/redirect" element={<Redirect/>} />
+        <Route path="/oauth/redirct" element={<Redirect/>} />
       </Routes>
     </div>
   );
